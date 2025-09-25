@@ -76,6 +76,11 @@
 
 ---
 
+
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXEwem16M25hZ3NkeWx1bjN6bXdpN3o3N2puYWl6eDV1Ym4xNmVicCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HLB0nLA36GCCo6JuB5/giphy.gif" width="300" alt="Centered GIF" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=0xRhayanne&color=orange" alt="Profile Views" />
 </p>
