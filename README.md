@@ -59,7 +59,7 @@
 
 ## 📫 Let's Connect
 
-- Email: rhay.naka@gmail.com 
+- Email: rhayanne.yn@gmail.com 
 - Skype: [.rhayanne.](https://join.skype.com/invite/bD3ceCAg6Kgj)
 - GitHub: [@0xRhayanne](https://github.com/0xRhayanne)
 
