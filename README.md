@@ -3,7 +3,7 @@
 🎓 **Computer Science Graduate** at Federal University of Paraná (UFPR).  
 💡 **Aspiring Full-Stack Developer** with a passion for building and learning.  
 🔧 Currently improving through personal projects and hands-on coding.  
-📍 Open to any opportunity that helps me grow as a developer and professional.
+📍 Open to any opportunity that helps me grow as a developer and professional.  
 
 ---
 
