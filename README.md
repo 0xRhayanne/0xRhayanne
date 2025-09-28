@@ -53,7 +53,7 @@
 
 ## 📌 Featured Projects *(Coming Soon)*
 
-> I’m actively working on a few personal projects, check back soon!!  
+> I’m actively working on a few personal projects, check back soon (✧∀✧)/ 
 
 ---
 
