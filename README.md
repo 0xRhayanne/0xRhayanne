@@ -69,7 +69,7 @@
 ## 📫 Let's Connect
 
 - Email: rhayanne.yn@gmail.com 
-- Skype: [.rhayanne.](https://join.skype.com/invite/bD3ceCAg6Kgj)
+- Microsoft Teams: [Start a chat] (https://teams.live.com/l/invite/FAAxw3JMLlJ3ql1GwE?v=g1
 - GitHub: [@0xRhayanne](https://github.com/0xRhayanne)
 
 ---
