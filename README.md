@@ -53,7 +53,7 @@
 
 ## 🔍 What I’m Looking For
 
-- 🎯 As someone new to the field, I'm open to a wide range of opportunities, including internships, collaborative projects, or entry-level roles. 
+- 🎯 Just starting out and excited for any opportunities, internships, projects, or entry-level roles. 
 - 💡 My main goal is to gain practical experience, learn from others, and contribute wherever I can.
 - 📈 I’m eager to grow in a real-world environment, whether that’s through remote or in-person work.
 - 🤝 I'm highly motivated, a fast learner, and excited to take on new challenges and continue growing as a developer.
