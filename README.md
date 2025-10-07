@@ -70,7 +70,7 @@
 
 - Email: rhayanne.yn@gmail.com 
 - Teams: [Start a chat here](https://teams.live.com/l/invite/FAAxw3JMLlJ3ql1GwE?v=g1)
-- Discord: [Or here](https://discordapp.com/1263262440255131661/)
+- Discord: [Or here](https://discordapp.com/users/1263262440255131661/)
 - GitHub: [@0xRhayanne](https://github.com/0xRhayanne)
 
 ---
