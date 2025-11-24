@@ -71,7 +71,7 @@
 - Email: rhayanne.yn@gmail.com 
 - Teams: [Start a chat here](https://teams.live.com/l/invite/FAAxw3JMLlJ3ql1GwE?v=g1)
 - Discord: [Or here](https://discordapp.com/users/1263262440255131661/)
-- GitHub: [@0xRhayanne](https://github.com/0xRhayanne)
+- Slack: [Also here](https://join.slack.com/t/ringelblume/shared_invite/zt-3j88mw5kn-LiwlVQhw9SFh0dxUiC7Jgg)
 
 ---
 
