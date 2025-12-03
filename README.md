@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rhayanne
+# 👋 Hello, I'm Rhayanne
 
 🎓 **Computer Science Graduate** at Federal University of Paraná (UFPR).   
 💡 **Aspiring Full-Stack Developer** with a passion for building and learning.  
