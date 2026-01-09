@@ -62,7 +62,7 @@
 
 ## 📌 Featured Projects
 
-> I’m actively working on a few personal projects, check back soon (✧∀✧)/ 
+(✧∀✧)/ 
 
 ---
 
