@@ -62,7 +62,7 @@
 
 ## 📌 Featured Projects
 
-\(✧∀✧)/ 
+🎲 Guess the Number Game
 
 ---
 
