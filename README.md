@@ -62,9 +62,9 @@
 
 ## 📌 Featured Projects
 
-🎲 Guess the Number Game
+### 🎲 Guess the Number Game
 
-🚀 Live Demo
+### 🚀 Live Demo
 ---
 
 ## 📫 Let's Connect
