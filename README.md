@@ -68,6 +68,8 @@
 
 Play here ⇒ [Link](https://guessnumbergamegui.netlify.app)
 
+---
+
 ## 📫 Let's Connect
 
 - Email: rhayanne.yn@gmail.com 
