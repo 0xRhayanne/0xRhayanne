@@ -64,9 +64,7 @@
 
 ### 🎲 Guess the Number Game
 
-### 🚀 Live Demo
-
-Play here ⇒ [Link](https://guessnumbergamegui.netlify.app)
+[![GuessTheNumberGame](assets/GuessTheNumberGame.png)](https://guessnumbergamegui.netlify.app)   
 
 ---
 
