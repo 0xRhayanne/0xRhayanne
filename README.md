@@ -64,6 +64,8 @@
 
 ### 🎲 Guess the Number Game
 
+Built primarily in pure Java as a first version, and now fully playable anywhere, on any device and browser.
+
 [![GuessTheNumberGame](assets/GuessTheNumberGame.png)](https://guessnumbergamegui.netlify.app)   
 
 ---
