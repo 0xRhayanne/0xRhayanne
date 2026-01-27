@@ -66,6 +66,11 @@
 
 Built primarily in pure Java as a first version, and now fully playable anywhere, on any device and browser.
 
+Click the link or just click on the image.
+
+Frontend (Netlify): https://guessnumbergamegui.netlify.app
+Backend (Render): https://guessnumbergame-feqq.onrender.com
+
 [![GuessTheNumberGame](assets/GuessTheNumberGame.png)](https://guessnumbergamegui.netlify.app)   
 
 ---
