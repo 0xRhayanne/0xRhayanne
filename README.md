@@ -44,7 +44,6 @@
 ## 🚀 What I'm Doing Now
 
 - 🔭 Working on full-stack projects to sharpen my skills and expand my experience.
-- 🌱 Learning React and Node.js to complete the full-stack cycle.
 - 🧠 Revisiting core CS concepts (data structures, OOP, algorithms).
 - 🤖 Exploring machine learning fundamentals and Python libraries.
 - ☁️ Gaining familiarity with cloud platforms like AWS and Docker for deployment.  
