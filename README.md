@@ -61,7 +61,22 @@
 
 ## 📌 Featured Projects
 
-### 🎲 Guess the Number Game
+### Complete Delivery Form App
+
+What started as a simple terminal-based Java tool in NetBeans has grown into a full-fledged online delivery form app. Now it validates inputs, verifies domains, and saves data seamlessly, powered by React, Spring Boot, MongoDB, Java, and other techs as well.
+
+Click the link or just click on the image.
+
+Frontend (Netlify): https://deliveryformapp.netlify.app
+
+Backend (Render): https://deliveryformapp.onrender.com
+
+[![DeliveryFormApp](assets/DELIVERYFORMAPP.png)](https://deliveryformapp.netlify.app)   
+
+---
+
+
+### 📝 Guess the Number Game
 
 Built primarily in pure Java as a first version, and now fully playable anywhere, on any device and browser.
 
