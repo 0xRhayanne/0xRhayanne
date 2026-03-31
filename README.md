@@ -9,7 +9,7 @@
 
 ## 🛠️ Languages & Tools I've Worked With
 
-### 💻 Programming/Markup Languages
+### 💻 Programming/Markup Languages + Libraries/Frameworks
 
 
 ![C](https://skillicons.dev/icons?i=c)
