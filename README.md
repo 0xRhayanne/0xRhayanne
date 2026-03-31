@@ -71,7 +71,9 @@ Frontend (Netlify): https://deliveryformapp.netlify.app
 
 Backend (Render): https://deliveryformapp.onrender.com
 
-[![DeliveryFormApp](assets/DELIVERYFORMAPP.png)](https://deliveryformapp.netlify.app)   
+<a href="https://deliveryformapp.netlify.app">
+  <img src="assets/DELIVERYFORMAPP.png" alt="DeliveryFormApp" width="400" height="auto">
+</a>  
 
 ---
 
