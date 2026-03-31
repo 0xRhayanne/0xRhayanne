@@ -72,7 +72,7 @@ Frontend (Netlify): https://deliveryformapp.netlify.app
 Backend (Render): https://deliveryformapp.onrender.com
 
 <a href="https://deliveryformapp.netlify.app">
-  <img src="assets/DELIVERYFORMAPP.png" alt="DeliveryFormApp" width="400" height="auto">
+  <img src="assets/DELIVERYFORMAPP.png" alt="DeliveryFormApp" width="600" height="auto">
 </a>  
 
 ---
@@ -88,7 +88,10 @@ Frontend (Netlify): https://guessnumbergamegui.netlify.app
 
 Backend (Render): https://guessnumbergame-feqq.onrender.com
 
-[![GuessTheNumberGame](assets/GuessTheNumberGame.png)](https://guessnumbergamegui.netlify.app)   
+  
+<a href="https://guessnumbergamegui.netlify.app">
+  <img src="assets/GuessTheNumberGame.png" alt="GuessTheNumberGame" width="600" height="auto">
+</a>
 
 ---
 
