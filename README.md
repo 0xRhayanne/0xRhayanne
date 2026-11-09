@@ -99,7 +99,7 @@ Backend (Render): https://guessnumbergame-feqq.onrender.com
 
 ## 📫 Let's Connect
 
-- Email: rhayanne.yn@gmail.com 
+- Email: rhayanne.ny@gmail.com 
 - Teams: [Start a chat here](https://teams.live.com/l/invite/FAAxw3JMLlJ3ql1GwE?v=g1)
 - Discord: [Or here](https://discordapp.com/users/1263262440255131661/)
 - Slack: [Also here](https://join.slack.com/t/ringelblume/shared_invite/zt-3j88mw5kn-LiwlVQhw9SFh0dxUiC7Jgg)
